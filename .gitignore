@@ -3,5 +3,6 @@ twitter-dev.env
 twitter-prod.env
 twitter-keys.env
 test-flood
-
+tweet*.txt
 .vscode
+package-lock.json
