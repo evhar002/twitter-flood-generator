@@ -3,6 +3,8 @@ twitter-dev.env
 twitter-prod.env
 twitter-keys.env
 test-flood
-tweet*.txt
+tweets/
 .vscode
 package-lock.json
+resources/test-images/
+.DS_Store
